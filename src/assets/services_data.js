@@ -5,7 +5,7 @@ const Services_Data = [
     s_desc:
       " A minimalist yet dynamic web-based version of the classic Tic Tac Toe game,Built using HTML, CSS, and JavaScript",
     s_link:
-      "",
+      "https://ecommerce-webapp-pearl.vercel.app/",
   },
   {
     s_no: "02",
