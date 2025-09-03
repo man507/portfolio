@@ -5,7 +5,7 @@ import Services_Data from '../../assets/services_data'
 import arrow_icon from'../../assets/arrow_icon.svg'
 
 const Services = () => {
-    console.log(Services_Data[2])
+    
   return (
     <div id='services' className='services'>
         <div className="services-title">
