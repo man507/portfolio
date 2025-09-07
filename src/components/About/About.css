@@ -104,3 +104,34 @@
   background-color: #555;
   border: none;
 }
+
+@media (max-width: 480px) {
+  .about {
+    padding: 20px 5%;
+  }
+
+  .about-title h1 {
+    font-size: 24px;
+  }
+
+  .about-left img {
+    max-width: 200px;
+  }
+
+  .about-para p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .skills-header {
+    font-size: 18px;
+  }
+
+  .about-achievement h1 {
+    font-size: 24px;
+  }
+
+  .about-achievement p {
+    font-size: 12px;
+  }
+}
